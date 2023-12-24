@@ -1,0 +1,39 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.header a {
+    color: #fff;
+    margin: 10px;
+}
+
+.content {
+    color: #fff;
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+}
+
+.form-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.form-container form {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.form-container input {
+    padding: 10px;
+    margin: 10px;
+}
+
+.form-container button {
+    padding: 10px;
+    margin: 10px;
+}
